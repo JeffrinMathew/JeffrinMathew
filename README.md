@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **Dreaming about automating everything!**
 
-- 🌐 Check out my Website [https://jeffrinmathew-github-ah0qv2tak-jeffrinmathew.vercel.app/]
+- 🌐 Check out my Website [https://jeffrinmathew-github-ah0qv2tak-jeffrinmathew.vercel.app/](Jeffrin's Website)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
