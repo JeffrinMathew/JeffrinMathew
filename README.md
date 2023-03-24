@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" /> </p>
 
-- 🔭 I’m currently working on [My GitHub Projects](https://github.com/JeffrinMathew/Projects)
+- 🔭 I’m currently working on [My GitHub Projects](https://github.com/JeffrinMathew)
 
-- 🌱 I’m currently learning **Python, Linux, and Cloud Infrastructure**
+- 🌱 I’m currently learning **Cloud Infrastructure and DevOps operations**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JeffrinMathew/Projects](https://github.com/JeffrinMathew/Projects)
+- 👨‍💻 All of my projects are available at [https://github.com/JeffrinMathew](https://github.com/JeffrinMathew)
 
-- 💬 Ask me about **Oracle, AWS, Python, AI, and Digital Transformation**
+- 💬 Ask me about **Cloud, DevOps, AI, and Digital Transformation**
 
 - 📫 How to reach me **jeffrinkofficial@gmail.com**
 
