@@ -18,6 +18,8 @@
 
 - 🌐 Check out my Website https://Jeffrinmathew.github.io/
 
+- 📝 Check my blog [jeffrinkofficial.wordpress.com/](https://jeffrinkofficial.wordpress.com/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jeffrin-mathew-kurian-741584212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeffrin mathew kurian" height="30" width="40" /></a>
