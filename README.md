@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jeffrin</h1>
 <h3 align="center">I'm passionate about the cloud ☁️ and love to code!</h3>
 
-<p align="center"> <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" /> </p>
+<p align="left"> <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" /> </p>
 
 - 🔭 I’m currently working on [My GitHub Projects](https://github.com/JeffrinMathew?tab=repositories)
 
